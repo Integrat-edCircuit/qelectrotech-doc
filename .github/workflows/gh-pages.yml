@@ -16,13 +16,12 @@ jobs:
       id-token: write
     steps:
     - uses: actions/checkout@v3
-    - run: test -f ${{ github.workspace }}/source/conf.py
-      shell: bash
-   # - id: spell
-    #  uses: codespell-project/actions-codespell@v2
-     # with:
-      #  exclude_file: ${{ github.workspace }}/source/conf.py
-      #  ignore_words_list: seealso
+
+    - id: spell
+      uses: codespell-project/actions-codespell@v2
+      with:
+        exclude_file: ${{ github.workspace }}/source/conf.py
+        ignore_words_list: seealso
     - id: deployment
       uses: sphinx-notes/pages@v3
       with:
