@@ -7,7 +7,7 @@ Cell
 Definition
 ~~~~~~~~~~
 
-A cell from the `title block`_ is the most basic storage unit avaliable. The three different 
+A cell from the `title block`_ is the most basic storage unit available. The three different 
 type of cells are: empty cell, text cell and logo cell.
 
 Empty cell
@@ -75,7 +75,7 @@ This type of cell has different parameters that can be defined.
 .. note::
 
     Many different tools allows you to create Scalable Vector Graphics, SVG files. Inside the 
-    Open Source world, `Inkscape`_ is on of the recomended tools.
+    Open Source world, `Inkscape`_ is on of the recommended tools.
 
 .. _Inkscape: https://inkscape.org/
 

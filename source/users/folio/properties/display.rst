@@ -68,7 +68,7 @@ Display folio properties from projects panel
 Display folio properties from folios tabs bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Doble click on the `folio tab`_ to display `folio properties`_.
+    1. Double click on the `folio tab`_ to display `folio properties`_.
 
 .. figure:: ../../images/qet_folio_tabs.png
    :align: center

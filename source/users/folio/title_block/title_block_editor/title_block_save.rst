@@ -63,7 +63,7 @@ saved as new `title block`_:
 
 .. note::
 
-   If the `toolbar`_ is not displayed, it can be displaed from **Settings > Display > Tools**.
+   If the `toolbar`_ is not displayed, it can be displayed from **Settings > Display > Tools**.
 
 Save title block using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

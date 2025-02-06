@@ -1,7 +1,7 @@
 .. _folio/title_block/title_block_editor/edition/column_width
 
 ======================
-Colum width definition
+Column width definition
 ======================
 
 The width from a `column`_ can only be defined from the column head, the top cell from the `drawing area`_ 
@@ -22,7 +22,7 @@ displayed in the `folio`_, it is only displayed at `title block editor`_.
 .. note::
 
     The global width from the `title block`_ has to be defined at QElectroTech, for this reason, 
-    defining one column width as remanding of 100% is recomended.
+    defining one column width as remanding of 100% is recommended.
 
     .. figure:: ../../../../images/qet_title_block_editor_workspace.png
         :align: center

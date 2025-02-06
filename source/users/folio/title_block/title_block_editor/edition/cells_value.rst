@@ -4,7 +4,7 @@
 Define cell content
 ===================
 
-QElectroTech `title block editor`_ allows defining two differen types of content in a `text cell`_ 
+QElectroTech `title block editor`_ allows defining two different types of content in a `text cell`_ 
 type: 
 
     * **Plain text**
@@ -52,8 +52,8 @@ called using the percent symbol before the variable name (``%{variable-name}``).
    
     QElectroTech also allows the user defining extra variables:
 
-        * Go to **Project > Project properties > General** to define costumized project variables.
-        * Go to **Edit > Folio properties > Title block informations > Costum**  to define costumized folio variables. 
+        * Go to **Project > Project properties > General** to define customized project variables.
+        * Go to **Edit > Folio properties > Title block information > Costum**  to define customized folio variables. 
 
 QElectroTech allows that the cell has a **Label** for the variable.
 
@@ -83,7 +83,7 @@ To define the variable:
 
     8. Press **Edit** button from text field and the cell value PopUP window will be displayed.
     9. Press the button **Add a line** to add a new row in the cell value table.
-    10. Define the 2 letter code that identifies the language from the text at **Language** column. Defining only one languaje is enough for default variables.
+    10. Define the 2 letter code that identifies the language from the text at **Language** column. Defining only one language is enough for default variables.
     11. Define the variable at **Text** column. A variable is defined as ``%{variable-name}``. The default variables can be copied to clipboard at the right bottom Combo Box and pasted (``Ctrl + c``) in **Text** column cell.
 
         .. figure:: ../../../../images/qet_title_block_editor_cell_prop_variable.png

@@ -13,7 +13,7 @@ have the same width and all rows have the same height.
 
    Figure: QElectroTech folio with 17 columns (0 to 16) and 8 rows (A to H) is shown
 
-The parameters that can be costumized from **Dimensions of folio** section from
+The parameters that can be customized from **Dimensions of folio** section from
 the `folio properties PopUp window`_ are:
 
     1. Number of columns.

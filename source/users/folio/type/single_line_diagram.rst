@@ -10,7 +10,7 @@ The single line diagrams represent electric, fluid, etc. systems using a simplif
 
 .. note::
 
-   At electric schemas, the power system is represended with a simplified notation and the control system is not represented. The `conductors`_ only represent power cables.
+   At electric schemas, the power system is represented with a simplified notation and the control system is not represented. The `conductors`_ only represent power cables.
 
    At fluid power schemas, the pressure and return line are represented by the same `conductor`_.
 

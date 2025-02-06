@@ -17,7 +17,7 @@ Create title block from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     1. Select **Project > Project properties > New folio** menu item to display `default folio properties`_ from `project`_.
-    2. Go to `title block informations`_ and select the base title block that should be used to create the new one.
+    2. Go to `title block information`_ and select the base title block that should be used to create the new one.
     3. Select the option **Duplicate and edit this template**.
 
         .. figure:: ../../images/qet_project_prop_new_folio_title_block_options.png
@@ -36,7 +36,7 @@ Create title block from folio properties
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     1. `Display folio properties`_ from one of the `folios`_ of the `project`_.
-    2. Go to `title block informations`_ and select the base title block that should be used to create the new one.
+    2. Go to `title block information`_ and select the base title block that should be used to create the new one.
     3. Select the option **Duplicate and edit this template**.
 
         .. figure:: ../../images/qet_folio_prop_title_block_options.png
@@ -68,7 +68,7 @@ Create title block from project panel
    If the `project panel`_ is not displayed, it can be displayed from **Settings > Display > Projects**.
 
 .. _Display folio properties: ../../folio/properties/display.html
-.. _title block informations: ../../folio/properties/folio_title_block.html
+.. _title block information: ../../folio/properties/folio_title_block.html
 .. _default folio properties: ../../project/properties/new_folio/folio.html
 .. _project: ../../project/index.html
 .. _folios: ../../folio/index.html

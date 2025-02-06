@@ -10,7 +10,7 @@ QElectroTech `title block editor`_ allows splitting `cells`_ previously `merged`
 Split cells from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the merged `cells`_ which should be splitted.
+    1. Select the merged `cells`_ which should be split.
     2. Select **Edit > Split cells** menu item to split the selected `cells`_.
 
         .. figure:: ../../../../images/qet_title_block_editor_menu_edit.png
@@ -21,7 +21,7 @@ Split cells from menu bar
 Split cells from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the merged `cells`_ which should be splitted.
+    1. Select the merged `cells`_ which should be split.
     2. Select the icon |icon_split| from the `toolbar`_ to split the selected `cells`_.
 
 .. note::
@@ -35,7 +35,7 @@ Split cells using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Select the merged `cells`_ which should be splitted.
+    1. Select the merged `cells`_ which should be split.
     2. Press ``Ctrl + k`` to split the selected `cells`_.
 
 .. seealso::

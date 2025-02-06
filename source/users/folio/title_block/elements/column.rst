@@ -28,7 +28,7 @@ QElectroTech works with pixels, the width is defined according pixel unit.
 
 Unlike rows, the width of a column can be defined as:
 
-    * Absolut value, pixel units.
+    * Absolute value, pixel units.
     * Relative value to total, percent of the total width of the `title block`_.
     * Relative value to remaining, percent of the remaining width of the `title block`_.
 
