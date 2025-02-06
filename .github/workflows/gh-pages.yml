@@ -23,6 +23,7 @@ jobs:
         exclude_file: ${{ github.workspace }}/source/conf.py
         ignore_words_list: seealso
         skip: '*.svg'
+        path: ${{ github.workspace }}/source/user, ${{ github.workspace }}/source/developer
     - id: deployment
       uses: sphinx-notes/pages@v3
       with:
