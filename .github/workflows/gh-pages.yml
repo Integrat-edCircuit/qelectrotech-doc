@@ -18,10 +18,10 @@ jobs:
     - uses: actions/checkout@v3
 
     - id: spell
+      if: ${{ !cancelled() }}
       uses: codespell-project/actions-codespell@v2
       with:
         exclude_file: ${{ github.workspace }}/source/conf.py
-        ignore_words_list: 'seealso, QElectrotech'
         skip: '*.svg, *.po, *.sh, *.py' 
     - id: deployment
       uses: sphinx-notes/pages@v3
